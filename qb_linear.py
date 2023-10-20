@@ -1,6 +1,6 @@
 """
-    CSC 370: Quarterback ratings, linear models, information from data
-    Group members: Khawaja Hussain Ahmed & Suleman Baloch
+    Quarterback ratings, linear models, information from data
+    Khawaja Hussain Ahmed
 """
 import pandas as pd
 import matplotlib.pyplot as plt
